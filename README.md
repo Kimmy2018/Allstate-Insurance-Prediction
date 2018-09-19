@@ -1,4 +1,3 @@
 # Allstate-Insurance-Prediction
 
-# First did as a group project. 
-# Revised the whole prediction modeling 
+I first did this prediction challenge as a group project. Unsatisfied with the result, I rewrite the whole prediction modeling but keep all of my previous exploratory data analysis. 
